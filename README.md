@@ -15,8 +15,8 @@ Várias projetos com laboratórios e arquitetura de solução usando serviços d
         <h2>Imagens do projetos</h2>
           <p>As imagens que compõem o projeto</p>
   <figure>
-<img src=" " alt=" "></a>
-<figcaption> </figcaption>
+<img src="https://raw.githubusercontent.com/sbr-rodrigues/Services-AWS/refs/heads/main/Entrega%20de%20conte%C3%BAdo%20AWS.png" alt="Architected Solutions"></a>
+<figcaption>Arquitetura de entrega e conteúdo</figcaption>
    </figure>
  <figure>
    <img src=" " alt=" "></a>

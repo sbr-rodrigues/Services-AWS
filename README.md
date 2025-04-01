@@ -19,12 +19,12 @@ Várias projetos com laboratórios e arquitetura de solução usando serviços d
 <figcaption>Arquitetura de entrega e conteúdo</figcaption>
    </figure>
  <figure>
-   <img src=" " alt=" "></a>
-    <figcaption> </figcaption>
+   <img src="https://raw.githubusercontent.com/sbr-rodrigues/Services-AWS/refs/heads/main/1.%202%20-%20AMI.png" alt="Amazon EC2 "></a>
+    <figcaption>AMI do console EC2</figcaption>
       </figure>
        <figure>
-         <img src=" " alt=" "></a>
- <figcaption> </figcaption>
+         <img src="https://raw.githubusercontent.com/sbr-rodrigues/Services-AWS/refs/heads/main/1.%202%20-%20Bucket.png" alt="Amazon S3"></a>
+ <figcaption>Bucket S3</figcaption>
     </figure>
     </body>
     </html>
